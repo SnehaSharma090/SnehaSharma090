@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Sneha%20Sharma&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20ML%20and%20NLP%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=%20I'm%20Sneha%20Sharma&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20ML%20and%20NLP%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/your-linkedin-here">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
