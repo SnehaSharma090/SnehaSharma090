@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=%20Sneha%20Sharma&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20ML%20and%20NLP%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Hi%20There,%20I'm%20Sneha%20Sharma&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Software%20Developer%20|%20ML%20and%20NLP%20Enthusiast&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/your-linkedin-here">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -74,16 +74,11 @@
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SnehaSharma090&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=SnehaSharma090&theme=radical&hide_border=true"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=SnehaSharma090&amp;theme=radical&amp;hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaSharma090&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehaSharma090&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehaSharma090&amp;theme=react-dark&amp;hide_border=true"/>
 </p>
 
 <br/>
@@ -137,6 +132,6 @@ Architected a custom Salesforce CRM (Objects, Fields, Apex, Workflow Automation)
 <a href="https://linkedin.com/in/your-linkedin-here"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sneha272003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
