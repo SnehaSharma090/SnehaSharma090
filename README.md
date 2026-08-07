@@ -85,7 +85,7 @@
 
 ## 🌟 Featured Projects
 
-### 🏥 [Patient Complaint Management System](#)
+### 🏥 [Patient Complaint Management System](https://github.com/SnehaSharma090/Patient-Complaint-Management-System)
 AI-powered healthcare complaint analysis platform using **Machine Learning & NLP** — handles complaint classification, priority prediction, and sentiment analysis, deployed via Flask for real-time analysis.  
 `Python` `Flask` `Machine Learning` `NLP` `Pandas`
 
