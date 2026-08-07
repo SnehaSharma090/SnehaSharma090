@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=%20Sneha%20Sharma&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Software%20Developer%20|%20ML%20and%20GEN-AI%20Enthusiast&amp;descAlignY=88&amp;descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/your-linkedin-here">
+<a href="https://www.linkedin.com/in/sneha-sharma-132615238/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sneha272003@gmail.com">
