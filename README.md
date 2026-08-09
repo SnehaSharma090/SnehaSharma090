@@ -89,7 +89,7 @@
 AI-powered healthcare complaint analysis platform using **Machine Learning & NLP** — handles complaint classification, priority prediction, and sentiment analysis, deployed via Flask for real-time analysis.  
 `Python` `Flask` `Machine Learning` `NLP` `Pandas`
 
-### 🔍 [Code Review Assistant](#)
+### 🔍 [Code Review Assistant](https://github.com/SnehaSharma090/AI-Agentic-Code-Review-Assistant)
 An intelligent rule-based code review tool that flags bugs, security vulnerabilities, and optimization opportunities, generating recommendations aligned with best practices.  
 `Python` `NLP` `Rule-Based System`
 
