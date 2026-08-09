@@ -23,7 +23,7 @@
 - 🎓 Pursuing **M.Tech in Computer Science** at PES University, Bangalore (CGPA: 8.24)
 - 💻 B.Tech in Computer Science from ITM University, Gwalior (CGPA: 7.7)
 - 🌱 Passionate about **Machine Learning, NLP**, and building real-world, efficient applications
-- 🛠️ Experience in **Full-Stack Development, Salesforce CRM, and Technical Writing**
+- 🛠️ Experience in **AI,Full-Stack Development, Salesforce CRM, and Technical Writing**
 - 📫 Reach me at **sneha272003@gmail.com**
 - ⚡ Fun fact: Solved **LeetCode problems** and love turning complex tech into simple ideas
 
