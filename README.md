@@ -25,7 +25,7 @@
 - 🌱 Passionate about **Machine Learning, NLP**, and building real-world, efficient applications
 - 🛠️ Experience in **Full-Stack Development, Salesforce CRM, and Technical Writing**
 - 📫 Reach me at **sneha272003@gmail.com**
-- ⚡ Fun fact: Solved **100+ LeetCode problems** and love turning complex tech into simple ideas
+- ⚡ Fun fact: Solved **LeetCode problems** and love turning complex tech into simple ideas
 
 <br/>
 
