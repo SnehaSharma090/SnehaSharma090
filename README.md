@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/terminal.svg?v=2" width="100%" alt="Sneha Sharma Terminal Profile"/>
+<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/terminal-final.svg?v=1" width="100%" alt="Sneha Sharma Terminal Profile"/>
 
 <br/>
 
