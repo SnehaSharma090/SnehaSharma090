@@ -6,7 +6,7 @@
 <tr>
 <td width="48%" align="center">
 
-<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/avatar.png" width="300" alt="Sneha Sharma Avatar"/>
+<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/avatar.png" width="700" alt="Sneha Sharma Avatar"/>
 
 </td>
 <td width="52%" align="left">
