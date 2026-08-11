@@ -29,6 +29,7 @@
 - 💻 Experienced with **Full-Stack Development, Machine Learning, NLP, Salesforce CRM, and Technical Writing**
 - 🧠 Interested in **Generative AI, NLP, intelligent automation, cloud technologies, and problem solving**
 - 🚀 I enjoy turning ideas into working products and continuously improving my skills through hands-on projects
+- 🔗 GitHub: **[github.com/SnehaSharma090](https://github.com/SnehaSharma090)**
 - 📫 Reach me at **sneha272003@gmail.com**
 - ⚡ Fun fact: I enjoy simplifying complex technical concepts and solving challenging coding problems
 
