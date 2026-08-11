@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 
 <img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/terminal-final.svg?v=1" width="100%" alt="Sneha Sharma Terminal Profile"/>
 
