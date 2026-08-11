@@ -1,147 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%20Sneha%20Sharma&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20ML%20and%20GEN-AI%20Enthusiast&descAlignY=88&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sneha%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack&descAlignY=88&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/sneha-sharma-132615238/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sneha272003@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/SnehaSharma090">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/avatar.png" width="190" alt="Sneha Sharma Avatar"/>
 
-<img src="https://komarev.com/ghpvc/?username=SnehaSharma090&style=for-the-badge&color=blueviolet" alt="profile views"/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=A56EFF&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions+%F0%9F%A4%96;Turning+ideas+into+real-world+applications+%F0%9F%92%BB;Learning%2C+building%2C+and+growing+every+day+%F0%9F%9A%80" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/sneha-sharma-132615238/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sneha272003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/SnehaSharma090"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=SnehaSharma090&style=for-the-badge&color=8A2BE2" alt="profile views"/>
 
 </div>
 
-<br/>
+---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 Pursuing **M.Tech in Computer Science** at PES University, Bangalore (CGPA: 8.24)
-- 💻 B.Tech in Computer Science from ITM University, Gwalior (CGPA: 7.7)
-- 🌱 Passionate about **Machine Learning, NLP**, and building real-world, efficient applications
-- 🛠️ Experience in **AI,Full-Stack Development, Salesforce CRM, and Technical Writing**
-- 📫 Reach me at **sneha272003@gmail.com**
-- ⚡ Fun fact: Solved **LeetCode problems** and love turning complex tech into simple ideas
+Hi! I'm **Sneha Sharma**, a Computer Science student and software developer who enjoys building **AI-powered, intelligent, and user-focused applications**.
 
-<br/>
+I'm interested in **Machine Learning, Generative AI, NLP, Full-Stack Development, Cloud, and problem solving**. I love taking an idea from concept to a working product and improving it through hands-on projects.
+
+### 🚀 Currently Focused On
+
+- 🤖 **AI / Machine Learning / Generative AI**
+- 🧠 **NLP & Intelligent Automation**
+- 💻 **Full-Stack Development**
+- ☁️ **Cloud & CRM Technologies**
+- 🧩 **Data Structures & Problem Solving**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧑‍💻 Languages
+<p><img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript&perline=5"/></p>
+
+### 🌐 Web & Backend
+<p><img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,flask&perline=7"/></p>
+
+### 🤖 AI / ML / Data
+<p><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></p>
+
+### ☁️ Tools & Platforms
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,aws&perline=5"/> <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/></p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🔍 [AI Agentic Code Review Assistant](https://github.com/SnehaSharma090/AI-Agentic-Code-Review-Assistant)
+An intelligent code review system that analyzes source code for **bugs, security vulnerabilities, structural issues, and improvement opportunities** and generates actionable recommendations.
+
+`Python` `AI` `Code Analysis` `Security`
+
+### 🏥 [Patient Complaint Management System](https://github.com/SnehaSharma090/Patient-Complaint-Management-System)
+AI-powered healthcare application for **complaint classification, priority prediction, and sentiment analysis**, exposed through a Flask-based interface.
+
+`Python` `Machine Learning` `NLP` `Flask`
+
+### 🍲 [Food Donation Community](https://github.com/SnehaSharma090/Food-Donation-Community-using-MERN-Stack)
+A MERN-stack platform connecting **food donors and NGOs** with authentication, REST APIs, and role-based workflows.
+
+`MongoDB` `Express.js` `React.js` `Node.js`
+
+### 🐦 Twitter Emotion Analysis
+Machine learning project for classifying tweets into emotional categories using **text preprocessing, feature engineering, and supervised learning**.
+
+`Python` `Pandas` `Scikit-learn` `NLP`
+
+---
+
+## 💼 Experience
+
+**Technical Writing Intern — Learnbay**  
+Researched emerging technologies and converted technical concepts into clear, learner-friendly content.
+
+**Salesforce Developer Intern — Salesforce.co**  
+Worked with Salesforce CRM concepts including objects, fields, Apex, workflow automation, appointment scheduling, billing, feedback modules, and dashboards.
+
+---
+
+## 🏆 Achievements
+
+- 👩‍💻 **GDSC Member** — participated in technical workshops, coding activities, and peer learning
+- 🏁 **Amazon ML Challenge** — participated in a competitive machine learning challenge
+- 💻 **100+ LeetCode Problems** — strengthened problem-solving and DSA skills
+- ☁️ **AWS Cloud Foundations**
+- ☁️ **Salesforce Administration & Developer Virtual Internship**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center"><img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=SnehaSharma090&theme=radical&hide_border=true"/></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehaSharma090&theme=react-dark&hide_border=true"/></p>
+
+---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake.svg">
-    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake.svg">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake.svg">
+<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
 
-<br/>
-
-## 🧰 Tech Stack
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-**Web & Backend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
-
-**Machine Learning & Data**
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
-</p>
-
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-<br/>
-
-## 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=SnehaSharma090&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehaSharma090&theme=react-dark&hide_border=true"/>
-</p>
-
-<br/>
-
-## 🌟 Featured Projects
-
-### 🏥 [Patient Complaint Management System](https://github.com/SnehaSharma090/Patient-Complaint-Management-System)
-AI-powered healthcare complaint analysis platform using **Machine Learning & NLP** — handles complaint classification, priority prediction, and sentiment analysis, deployed via Flask for real-time analysis.  
-`Python` `Flask` `Machine Learning` `NLP` `Pandas`
-
-### 🔍 [Code Review Assistant](https://github.com/SnehaSharma090/AI-Agentic-Code-Review-Assistant)
-An intelligent rule-based code review tool that flags bugs, security vulnerabilities, and optimization opportunities, generating recommendations aligned with best practices.  
-`Python` `NLP` `Rule-Based System`
-
-### 🍲 [Food Donation App (MERN)](https://github.com/SnehaSharma090/Food-Donation-Community-using-MERN-Stack)
-Full-stack application connecting food donors with NGOs for efficient distribution, featuring REST APIs and role-based authentication.  
-`MongoDB` `Express.js` `React.js` `Node.js` `REST API`
-
-### 🐦 [Twitter Emotion Analysis](#)
-Trained ML models to classify tweets into emotional categories with **88% accuracy**, using text preprocessing and feature engineering.  
-`Python` `Pandas` `Scikit-learn` `NLP` `Matplotlib`
-
-> 
-
-<br/>
-
-## 💼 Experience
-
-**Technical Writing Intern** — Learnbay (AI & Data Science) · *Nov 2023 – Jan 2025*  
-Researched emerging technologies and translated complex concepts into developer-friendly learning content.
-
-**Salesforce Developer Intern** — Salesforce.co · *Aug 2024 – Sep 2024*  
-Architected a custom Salesforce CRM (Objects, Fields, Apex, Workflow Automation); built appointment scheduling, billing, and feedback modules with analytical dashboards.
-
-<br/>
-
-## 🏆 Achievements & Certifications
-
-- ✅ AWS Cloud Foundations
-- ✅ Salesforce Administration and Developer Virtual Internship
-- 💯 Solved 100+ LeetCode problems
-- 👩‍💻 GDSC Member — conducted coding workshops and mentored peers
-- 🏁 Amazon ML Challenge participant
-
-<br/>
+---
 
 <div align="center">
 
-### 🤝 Let's Connect!
+### 💜 Let's Build Something Great
 
-<a href="https://linkedin.com/in/your-linkedin-here"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sneha-sharma-132615238/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sneha272003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
