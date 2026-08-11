@@ -2,16 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%20Sneha%20Sharma&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20ML%20and%20GEN-AI%20Enthusiast&descAlignY=88&descSize=18" width="100%"/>
 
-<table align="center" width="95%" cellspacing="0" cellpadding="10">
-<tr>
-<td width="38%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/avatar.png" width="330" alt="Sneha Sharma Avatar"/>
-</td>
-<td width="62%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/terminal.svg" width="560" alt="Sneha Sharma animated terminal intro"/>
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/terminal.svg" width="900" alt="Sneha Sharma animated terminal with avatar"/>
 
 <a href="https://www.linkedin.com/in/sneha-sharma-132615238/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
