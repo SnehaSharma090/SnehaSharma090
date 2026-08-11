@@ -101,7 +101,7 @@ Full-stack application connecting food donors with NGOs for efficient distributi
 Trained ML models to classify tweets into emotional categories with **88% accuracy**, using text preprocessing and feature engineering.  
 `Python` `Pandas` `Scikit-learn` `NLP` `Matplotlib`
 
-> 💡 *Tip: Replace the `#` links above with your actual repository URLs.*
+> 
 
 <br/>
 
