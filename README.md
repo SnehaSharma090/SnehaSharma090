@@ -2,7 +2,27 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%20Sneha%20Sharma&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20ML%20and%20GEN-AI%20Enthusiast&descAlignY=88&descSize=18" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/terminal.svg" width="900" alt="Sneha Sharma animated terminal with avatar"/>
+<table align="center" width="95%">
+<tr>
+<td width="38%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/avatar.png" width="300" alt="Sneha Sharma Avatar"/>
+</td>
+<td width="62%" align="left" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=700&color=A56EFF&width=520&lines=sneha%40github%3A~%24+./about_me.sh;Software+Developer;ML+%26+GEN-AI+Enthusiast;Building+AI-powered+applications;Turning+ideas+into+real-world+solutions" alt="Animated intro"/>
+<pre>
+Name       : Sneha Sharma
+Role       : Software Developer
+Focus      : ML & GEN-AI Enthusiast
+Education  : M.Tech CSE @ PES University
+Location   : Bangalore, India
+Languages  : Python · C++ · SQL · JavaScript
+Stack      : MERN · Flask · ML · NLP · Salesforce
+Tools      : Git · GitHub · VS Code · AWS
+Status     : Building & Learning 🚀
+</pre>
+</td>
+</tr>
+</table>
 
 <a href="https://www.linkedin.com/in/sneha-sharma-132615238/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -13,7 +33,6 @@
 <a href="https://github.com/SnehaSharma090">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=SnehaSharma090&style=for-the-badge&color=blueviolet" alt="profile views"/>
 
 </div>
