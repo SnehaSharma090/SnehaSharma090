@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=%20Sneha%20Sharma&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Software%20Developer%20|%20ML%20and%20GEN-AI%20Enthusiast&amp;descAlignY=88&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%20Sneha%20Sharma&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20ML%20and%20GEN-AI%20Enthusiast&descAlignY=88&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/sneha-sharma-132615238/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,6 +26,18 @@
 - 🛠️ Experience in **AI,Full-Stack Development, Salesforce CRM, and Technical Writing**
 - 📫 Reach me at **sneha272003@gmail.com**
 - ⚡ Fun fact: Solved **LeetCode problems** and love turning complex tech into simple ideas
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake.svg">
+    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <br/>
 
@@ -74,11 +86,11 @@
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=SnehaSharma090&amp;theme=radical&amp;hide_border=true"/>
+  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=SnehaSharma090&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehaSharma090&amp;theme=react-dark&amp;hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehaSharma090&theme=react-dark&hide_border=true"/>
 </p>
 
 <br/>
@@ -132,6 +144,6 @@ Architected a custom Salesforce CRM (Objects, Fields, Apex, Workflow Automation)
 <a href="https://linkedin.com/in/your-linkedin-here"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sneha272003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
