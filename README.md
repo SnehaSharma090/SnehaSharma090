@@ -2,14 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%20Sneha%20Sharma&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20ML%20and%20GEN-AI%20Enthusiast&descAlignY=88&descSize=18" width="100%"/>
 
-<table align="center" width="95%">
-<tr>
-<td width="48%" align="center">
-
-<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/avatar.png" width="280" alt="Sneha Sharma Avatar"/>
-
-</td>
-<td width="52%" align="left">
+<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/avatar.png" width="360" alt="Sneha Sharma Avatar"/>
 
 <pre>
 sneha@github
@@ -25,13 +18,9 @@ Tools      : Git · GitHub · VS Code · AWS
 Status     : Building & Learning 🚀
 </pre>
 
-<p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=700&color=A970FF&width=500&lines=Software+Developer;ML+%26+GEN-AI+Enthusiast;Building+AI-powered+applications;Turning+ideas+into+real-world+solutions;Code+%7C+Learn+%7C+Build+%7C+Grow+%F0%9F%9A%80" alt="Animated intro"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=650&color=A970FF&center=true&vCenter=true&width=650&lines=Software+Developer;ML+%26+GEN-AI+Enthusiast;Building+AI-powered+applications;Turning+ideas+into+real-world+solutions;Code+%7C+Learn+%7C+Build+%7C+Grow+%F0%9F%9A%80" alt="Animated intro"/>
 
-</td>
-</tr>
-</table>
+<br/>
 
 <a href="https://www.linkedin.com/in/sneha-sharma-132615238/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,7 +31,6 @@ Status     : Building & Learning 🚀
 <a href="https://github.com/SnehaSharma090">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=SnehaSharma090&style=for-the-badge&color=blueviolet" alt="profile views"/>
 
 </div>
