@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/terminal-final.svg?v=1" width="100%" alt="Sneha Sharma Terminal Profile"/>
+<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/terminal-final.svg?v=3" width="100%" alt="Sneha Sharma Terminal Profile"/>
 
 <br/>
 
@@ -35,18 +35,9 @@
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="A snake eating my GitHub contribution graph"
-      src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake.svg"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake.svg">
+    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -55,7 +46,6 @@
 ## 🧰 Tech Stack
 
 **Languages**
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -64,7 +54,6 @@
 </p>
 
 **Web & Backend**
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -76,7 +65,6 @@
 </p>
 
 **Machine Learning & Data**
-
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -86,7 +74,6 @@
 </p>
 
 **Tools & Platforms**
-
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -101,16 +88,11 @@
 ## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=SnehaSharma090&theme=radical&hide_border=true"
-  />
+  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=SnehaSharma090&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SnehaSharma090&theme=react-dark&hide_border=true"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehaSharma090&theme=react-dark&hide_border=true"/>
 </p>
 
 <br/>
@@ -118,25 +100,21 @@
 ## 🌟 Featured Projects
 
 ### 🏥 [Patient Complaint Management System](https://github.com/SnehaSharma090/Patient-Complaint-Management-System)
-
 AI-powered healthcare complaint analysis platform using **Machine Learning & NLP** — handles complaint classification, priority prediction, and sentiment analysis, deployed via Flask for real-time analysis.
 
 `Python` `Flask` `Machine Learning` `NLP` `Pandas`
 
 ### 🔍 [Code Review Assistant](https://github.com/SnehaSharma090/AI-Agentic-Code-Review-Assistant)
-
 An intelligent rule-based code review tool that flags bugs, security vulnerabilities, and optimization opportunities, generating recommendations aligned with best practices.
 
 `Python` `NLP` `Rule-Based System`
 
 ### 🍲 [Food Donation App (MERN)](https://github.com/SnehaSharma090/Food-Donation-Community-using-MERN-Stack)
-
 Full-stack application connecting food donors with NGOs for efficient distribution, featuring REST APIs and role-based authentication.
 
 `MongoDB` `Express.js` `React.js` `Node.js` `REST API`
 
 ### 🐦 Twitter Emotion Analysis
-
 Trained ML models to classify tweets into emotional categories with **88% accuracy**, using text preprocessing and feature engineering.
 
 `Python` `Pandas` `Scikit-learn` `NLP` `Matplotlib`
@@ -172,16 +150,10 @@ Architected a custom Salesforce CRM (Objects, Fields, Apex, Workflow Automation)
 <a href="https://linkedin.com/in/sneha-sharma-132615238/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:sneha272003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
