@@ -6,14 +6,16 @@
 <tr>
 <td width="48%" align="center">
 
-<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/avatar.png" width="280" alt="Sneha Sharma Avatar"/>
+<img src="https://raw.githubusercontent.com/SnehaSharma090/SnehaSharma090/main/assets/avatar.png" width="300" alt="Sneha Sharma Avatar"/>
 
 </td>
 <td width="52%" align="left">
 
+<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=A56EFF&width=520&lines=sneha%40github%3A~%24+./about_me.sh;Software+Developer;ML+%26+GEN-AI+Enthusiast;Building+AI-powered+applications;Turning+ideas+into+real-world+solutions" alt="Animated intro"/>
+</p>
+
 <pre>
-sneha@github
-────────────────────────
 Name       : Sneha Sharma
 Role       : Software Developer
 Focus      : ML & GEN-AI Enthusiast
@@ -24,10 +26,6 @@ Stack      : MERN · Flask · ML · NLP · Salesforce
 Tools      : Git · GitHub · VS Code · AWS
 Status     : Building & Learning 🚀
 </pre>
-
-<p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=700&color=A970FF&width=500&lines=Software+Developer;ML+%26+GEN-AI+Enthusiast;Building+AI-powered+applications;Turning+ideas+into+real-world+solutions;Code+%7C+Learn+%7C+Build+%7C+Grow+%F0%9F%9A%80" alt="Animated intro"/>
-</p>
 
 </td>
 </tr>
