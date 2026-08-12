@@ -114,7 +114,7 @@ Full-stack application connecting food donors with NGOs for efficient distributi
 
 `MongoDB` `Express.js` `React.js` `Node.js` `REST API`
 
-### 🐦 Twitter Emotion Analysis(https://github.com/SnehaSharma090/Twitter-Sentimental-Analysis)
+### 🐦 [Twitter Emotion Analysis](https://github.com/SnehaSharma090/Twitter-Sentimental-Analysis)
 Trained ML models to classify tweets into emotional categories with **88% accuracy**, using text preprocessing and feature engineering.
 
 `Python` `Pandas` `Scikit-learn` `NLP` `Matplotlib`
