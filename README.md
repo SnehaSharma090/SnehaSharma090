@@ -137,7 +137,6 @@ Architected a custom Salesforce CRM (Objects, Fields, Apex, Workflow Automation)
 
 - ✅ AWS Cloud Foundations
 - ✅ Salesforce Administration and Developer Virtual Internship
-- 💯 Solved 100+ LeetCode problems
 - 👩‍💻 GDSC Member — conducted coding workshops and mentored peers
 - 🏁 Amazon ML Challenge participant
 
