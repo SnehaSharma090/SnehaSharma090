@@ -107,7 +107,7 @@ AI-powered healthcare complaint analysis platform using **Machine Learning & NLP
 ### 🔍 [Code Review Assistant](https://github.com/SnehaSharma090/AI-Agentic-Code-Review-Assistant)
 An intelligent rule-based code review tool that flags bugs, security vulnerabilities, and optimization opportunities, generating recommendations aligned with best practices.
 
-`Python` `NLP` `Rule-Based System` '
+`Python` `NLP` `Rule-Based System` 
 
 ### 🍲 [Food Donation App (MERN)](https://github.com/SnehaSharma090/Food-Donation-Community-using-MERN-Stack)
 Full-stack application connecting food donors with NGOs for efficient distribution, featuring REST APIs and role-based authentication.
