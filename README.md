@@ -62,7 +62,7 @@ I believe the best way to learn technology is to **build with it**, experiment, 
 
 ---
 
-- 🎓 Pursuing **M.Tech in Computer Science** at PES University, Bangalore (CGPA: 8.24)
+- 🎓 Pursuing **M.Tech in Computer Science** at PES University, Bangalore (CGPA: 8.14)
 - 💻 B.Tech in Computer Science from ITM University, Gwalior (CGPA: 7.7)
 - 🌱 Passionate about **Machine Learning, NLP, GEN AI**, and building real-world, efficient applications
 - 🛠️ Experience in **AI, Full-Stack Development, Salesforce CRM, and Technical Writing**
