@@ -13,7 +13,7 @@
 <a href="https://github.com/SnehaSharma090">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/SnehaSharma090/SnehaSharma090/blob/main/Sneha_Sharma_Resume.pdf">
+<a href="https://github.com/SnehaSharma090/SnehaSharma090/blob/main/Sneha_Sharma.resume.pdf">
   <img src="https://img.shields.io/badge/Resume-View%20Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=SnehaSharma090&style=for-the-badge&color=blueviolet" alt="profile views"/>
