@@ -22,6 +22,44 @@
 
 ## 🚀 About Me
 
+I'm a **Computer Science postgraduate and aspiring Software Engineer**, passionate about building practical solutions using **AI, Machine Learning, NLP, GEN AI, and Full-Stack Development**.
+
+I enjoy taking ideas from **problem → design → implementation → deployment**, and I'm always curious about how technology can be used to solve real-world problems.
+
+---
+
+### 🧠 What I Focus On
+
+- 🤖 **AI & Machine Learning** — Building practical machine learning solutions for real-world problems.
+- 🧠 **NLP & GEN AI** — Exploring Natural Language Processing, Generative AI, and intelligent automation.
+- 💻 **Software Development** — Developing applications using Python, C++, JavaScript, and modern frameworks.
+- 🌐 **Full-Stack Development** — Working with React, Node.js, Express.js, MongoDB, and Flask.
+- 🔍 **AI-Powered Applications** — Building intelligent tools that combine automation, analysis, and software engineering.
+- ☁️ **Cloud & Platforms** — Exploring AWS, Azure, and Salesforce technologies.
+- 📊 **Data & Analytics** — Working with Python, Pandas, NumPy, Scikit-learn, and data visualization.
+
+---
+
+## 🎯 Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Natural Language Processing & Generative AI
+- Full-Stack & Backend Development
+- AI-Assisted Software Engineering
+- Data Engineering & Analytics
+- Cloud Computing
+- Cybersecurity & Secure Software Development
+
+---
+
+## 🌱 Currently Learning
+
+I'm continuously improving my skills in **Generative AI, LLM-based applications, cloud technologies, and scalable software development**.
+
+I believe the best way to learn technology is to **build with it**, experiment, and keep improving one project at a time.
+
+---
+
 - 🎓 Pursuing **M.Tech in Computer Science** at PES University, Bangalore (CGPA: 8.24)
 - 💻 B.Tech in Computer Science from ITM University, Gwalior (CGPA: 7.7)
 - 🌱 Passionate about **Machine Learning, NLP, GEN AI**, and building real-world, efficient applications
